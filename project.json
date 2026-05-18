@@ -1,0 +1,7 @@
+{
+  "name": "Package",
+  "version": "1.0.0",
+  "author": "Cint",
+  "main": "init.lua",
+  "dependencies": []
+}
